@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacuneo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on junior projects 
 - 📫 How to reach me: jacuneo@gmail.com
 
